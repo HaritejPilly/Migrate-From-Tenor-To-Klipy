@@ -1,3 +1,5 @@
+<img width="2500" height="1251" alt="migrate from tenor to klipy " src="https://github.com/user-attachments/assets/2a84a7db-8d9b-4d0b-bd3a-2d75655b0324" />
+
 # Migrate From [Tenor](https://tenor.com/) to [KLIPY](https://klipy.com/) GIF API in 10 seconds.
 
 Hundreds of apps are already migrating from Tenor to KLIPY’s Free GIFs API, which delivers industry-leading share and engagement rates, validated by top platforms like Baidu and KiKa.
